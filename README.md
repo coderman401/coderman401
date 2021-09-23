@@ -1,4 +1,4 @@
-## Hi there👋,
+## Hi there👋
 
 #### I'm a Full-stack passionate developer and self-motivated achiever with an ability to plan and execute.
 
