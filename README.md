@@ -22,7 +22,7 @@
 
 ## Github stats:
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Kishan's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Kishan's github stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderman401&layout=compact&theme=dracula&hide_border=true" />
 
 <br />
