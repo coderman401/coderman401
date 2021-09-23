@@ -21,5 +21,5 @@
 
 ## Github stats:
 
-| <a href="https://github.com/coderman401/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/coderman401/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderman401&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://coderman401.web.app/demos/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://coderman401.web.app/demos/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderman401&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
