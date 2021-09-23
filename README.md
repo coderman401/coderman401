@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on `Angular` and `Laravel`
 - 🌱 I’m currently learning the `Flutter` for developing cross platform applications.
-- 😄 Pronouns: He/His
 - ✨Frontend skills: `Javascript`, `Typescript`, `Angular`
 - 🛠 Tools and Techonologies: `Javascript`, `Typescript`, `Angular`, `PHP`, `Laravel`, `NodeJS`, `Firebse`, `MySQL`, `Ionic`
 - ⚡ Fun fact: Marvel Fan 
@@ -22,7 +21,5 @@
 
 ## Github stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Kishan's github stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderman401&layout=compact&theme=dracula&hide_border=true" />
-
-<br />
+| <img align="left" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Kishan's github stats" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderman401&layout=compact&theme=dracula&hide_border=true" /> |
+|---|---|
