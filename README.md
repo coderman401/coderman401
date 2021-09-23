@@ -2,9 +2,9 @@
 
 #### I'm a Full-stack passionate developer and self-motivated achiever with an ability to plan and execute.
 
-- 🔭 I’m currently working on `Angular` and `Laravel`
-- 🌱 I’m currently learning the `Flutter` for developing cross platform applications.
-- ✨Frontend skills: `Javascript`, `Typescript`, `Angular`
+- 🔭 Current areas of work: `Angular` and `Laravel`
+- 🌱 Current areas of learning: `Flutter` for developing cross platform applications.
+- ✨ Frontend skills: `Javascript`, `Typescript`, `Angular`
 - 🛠 Tools and Techonologies: `Javascript`, `Typescript`, `Angular`, `PHP`, `Laravel`, `NodeJS`, `Firebse`, `MySQL`, `Ionic`
 - ⚡ Fun fact: Marvel Fan 
 <br>
@@ -21,5 +21,5 @@
 
 ## Github stats:
 
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Kishan's github stats" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderman401&layout=compact&theme=dracula&hide_border=true" /> |
-|---|---|
+| <a href="https://github.com/coderman401/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=coderman401&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/coderman401/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderman401&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
