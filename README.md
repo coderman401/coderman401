@@ -2,7 +2,7 @@
 
 #### I'm a Full-stack passionate developer and self-motivated achiever with an ability to plan and execute.
 
-- 🔭 Current areas of work: `Angular` and `Laravel`
+- 🔭 Current areas of work: `Angular` and `NodeJS`
 - 🌱 Current areas of learning: `Flutter` for developing cross platform applications.
 - ✨ Frontend skills: `Javascript`, `Typescript`, `Angular`
 - 🛠 Tools and Techonologies: `Javascript`, `Typescript`, `Angular`, `PHP`, `Laravel`, `NodeJS`, `Firebse`, `MySQL`, `Ionic`
